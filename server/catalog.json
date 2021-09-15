@@ -1,0 +1,74 @@
+[
+    {
+        "id": "el1",
+        "name": "Ноутбук Acer Aspire 5 A514-54-38SY",
+        "img": "https://content.rozetka.com.ua/goods/images/big/163179008.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el2",
+        "name": "Ноутбук Apple MacBook Air 13\" M1 256GB 2020",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/144249716.jpg",
+        "price": 33900
+    },
+    {
+        "id": "el3",
+        "name": "Ноутбук Honor MagicBook X 14",
+        "img": "https://content.rozetka.com.ua/goods/images/big/196863102.jpg",
+        "price": 21600
+    },
+    {
+        "id": "el4",
+        "name": "Ноутбук HP Pavilion 15-eg0058ua",
+        "img": "https://content.rozetka.com.ua/goods/images/big/202860381.jpg",
+        "price": 19900
+    },
+    {
+        "id": "el5",
+        "name": "Ноутбук Lenovo V15-ADA",
+        "img": "https://content2.rozetka.com.ua/goods/images/big/178061189.jpg",
+        "price": 14500
+    },
+    {
+        "id": "el6",
+        "name": "Ноутбук Asus ZenBook 15 UX534FAC-A8148T ",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/196847865.jpg",
+        "price": 14600
+    },
+    {
+        "id": "el7",
+        "name": "Ноутбук HP Laptop 15s-eq2056u",
+        "img": "https://content.rozetka.com.ua/goods/images/big/207458919.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el8",
+        "name": "Ноутбук Asus ZenBook OLED 13 UX325JA-KG284K",
+        "img": "https://content.rozetka.com.ua/goods/images/big/219561693.jpg",
+        "price": 28700
+    },
+    {
+        "id": "el9",
+        "name": "Ноутбук Huawei MateBook X Pro",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/28705225.jpg",
+        "price": 38100
+    },
+    {
+        "id": "el10",
+        "name": "Ноутбук Asus ZenBook OLED 13 UX325JA-KG284",
+        "img": "https://content.rozetka.com.ua/goods/images/big/219561693.jpg",
+        "price": 25990
+    },
+    {
+        "id": "el11",
+        "name": "Ноутбук HP Pavilion 14-dv0049ua",
+        "img": "https://content.rozetka.com.ua/goods/images/big/191888587.png",
+        "price": 17990
+    },
+    {
+        "id": "el12",
+        "name": "Ноутбук Acer Nitro 5 AN515-44-R8BU",
+        "img": "https://content2.rozetka.com.ua/goods/images/big/37886054.jpg",
+        "price": 23990
+    }
+]
